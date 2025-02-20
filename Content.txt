@@ -19,3 +19,5 @@ thesis writing 4th Edn. Brisbane: John Wiley & Sons
 Text Book:
 Russell, S.J. and Norvig, P., “Artificial Intelligence: A Modern Approach,” 3rd edition, Prentice-Hall,
 2010, OR 4th edition, Pearson Education Limited, 2022.
+
+Textbook exercises: https://aimacode.github.io/aima-exercises/ 
